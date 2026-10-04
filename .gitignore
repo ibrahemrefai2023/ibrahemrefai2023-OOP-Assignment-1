@@ -4,3 +4,7 @@
 
 /.vs
 /Part1_ProceduralToOOP/obj
+/Part2_HotelReservationSystem/obj
+/Part1_ProceduralToOOP/bin/Debug/net10.0
+/Part2_HotelReservationSystem/src/obj
+/Part2_HotelReservationSystem/src/bin/Debug/net10.0
